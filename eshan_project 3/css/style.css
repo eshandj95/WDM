@@ -1,0 +1,78 @@
+html{
+	width: 80%;
+	margin: auto;
+	margin-bottom: 30px;
+	font-family:Verdana;
+	box-shadow: 0 4px 2px -2px black;
+}
+h1 {
+    color: #FFFFFF ;
+	background-image :url(../images/gradientblue.jpg);
+	line-height : 200%;
+	padding-left: 1px;
+	margin : 0px;
+   }
+   
+h2{
+	color: #3399CC;
+	font-family : Georgia;
+}
+
+#wrapper{
+	width:70%;
+	float: right;
+
+}
+
+#pad1{
+	padding-left: 30px;
+}
+
+nav {
+	margin-top: 0px;
+	line-height: 150%;
+	color: #666666;
+	font-weight: bold;
+	background-color: #90C7E3;
+	width: 30%;
+	float: left; 
+	height : 35em;
+
+
+   }
+   
+ nav a{
+ 	padding-left: 30px;
+ }
+p,ul,a{
+	color:#666666;
+   }
+   
+
+.footer {
+  
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: black;
+   text-align: center;
+   font-size: 0.70em;
+}
+
+body{
+   color:#666666;
+ }
+ 
+a{
+   text-decoration:none;
+   color:#666666;
+ }
+
+address{
+	font-family: normal;
+	
+}
+
+
+
+
